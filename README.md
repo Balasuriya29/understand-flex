@@ -15,7 +15,7 @@ React Native - javascript
 
 
 
-## Screenshots
+## Demo
 
 https://user-images.githubusercontent.com/100402643/224201332-442850f4-62c8-4951-82ad-c2f3666fab38.mp4
 
